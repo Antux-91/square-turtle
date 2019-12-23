@@ -1,20 +1,23 @@
 ---
 title: About Me
 subtitle: This is a short page about me and my work.
-img_path: images/about.jpg
+img_path: /images/fb_img_1560292317199.jpg
 menus:
   main:
     title: About
     weight: 4
 template: page
 ---
+**Antonio De Gaetano,**
 
-**John Doe** is a Senior Art Director from [Stockholm](https://en.wikipedia.org/wiki/Stockholm), Sweden. After graduating from The College of Visual Arts with a degree in Communication Design, he worked for three small graphic design shops where he honed his design style and sensibility.
+a young professional with extensive experience in different jobs.
 
-His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. Graphic Design USA named him a person to watch in 2019.
+Often we ask ourselves, who we are and what we can do.
 
->The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
+I can define myself as a Biologist, with a strong passion for Science and Technology. A person with a strong personality, always ready to learn and improve.
 
-As a hobby, John Doe authors the most influential design blog in Sweden with over 100,000 page views a month. He lives in Stockholm with his beautiful wife and two boys.
+I decided to open my website as a challenge for me and also a way to improve my presence online.
 
-*Thank You for reading!*
+
+
+Thank you for reading, and I hope you will enjoy your experience on this website.
