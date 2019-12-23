@@ -3,8 +3,11 @@ title: Home
 sections:
   - component: HeroBlock
     content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+      Welcome on this website born for a hobby, and maybe with a great future.
+
+
+      At the moment some sections are under construction, but I firmly believe
+      that I will make it great.
     section_id: hero
     type: heroblock
   - actions:
