@@ -1,8 +1,8 @@
 ---
-title: Contact
+title: Contact Me
 menus:
   main:
-    title: Contact
+    title: Contact Me
     weight: 5
 template: contact
 ---
