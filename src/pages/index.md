@@ -12,19 +12,11 @@ sections:
         url: /contact
     component: ContentBlock
     content: >-
-      a young professional with extensive experience in different jobs. Often we
+      A young professional with extensive experience in different jobs. Often we
       ask ourselves, who we are and what we can do. 
 
-      I can define myself as a Biologist, with a strong passion for Science and
-      Technology. A person with a strong personality, always ready to learn and
-      improve. 
 
-      I decided to open my website as a challenge for me and also a way to
-      improve my presence online.  
-
-
-      Thank you for reading, and I hope you will enjoy your experience on this
-      website.
+      So, I decided to open this website.
     section_id: about
     title: About
     type: contentblock
