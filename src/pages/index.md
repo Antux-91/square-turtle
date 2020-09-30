@@ -6,8 +6,7 @@ sections:
       Welcome on this website born for a hobby, and maybe with a great future.
 
 
-      At the moment some sections are under construction, but I firmly believe
-      that I will make it great.
+      At the moment some sections are under construction, but I firmly believe that I will make it great.
     section_id: hero
     type: heroblock
   - actions:
@@ -35,6 +34,7 @@ menus:
   main:
     title: Home
     weight: 1
+    identifier: <script data-ad-client="ca-pub-6418778677786989" async
+      src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 template: home
 ---
-
